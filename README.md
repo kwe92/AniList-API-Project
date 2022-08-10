@@ -1,6 +1,6 @@
 # AniList-API-Project
 
-- A Data Engineering project:
+- A Data Engineering Project:
 
     - API Calls
     - Data Exploration & Cleaning
